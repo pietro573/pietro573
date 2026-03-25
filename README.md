@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">olá eu me chamo pietro e faço curso tecnico de desenvolvimento de sistema a aula que eu mais gosto é back end e gosto de desnhar e fazer animação de rpg no celular
+<p align="left">olá eu me chamo pietro e faço curso tecnico de desenvolvimento de sistema a aula que eu mais gosto é back end e gosto de desenhar e fazer animação de rpg no celular
 </p>
 
 ###
